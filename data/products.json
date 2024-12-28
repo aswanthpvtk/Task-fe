@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Acer laptop",
+        "description": "A high-performance laptop with a sleek design",
+        "image": "assets/images/product1.jpg",
+        "price": 55600,
+        "category": "Category lap"
+    },
+    {
+        "name": "Dell laptop",
+        "description": "A reliable and efficient laptop from Dell",
+        "image": "assets/images/product2.jpg",
+        "price": 26000,
+        "category": "Category lap"
+    },
+    {
+        "name": "MSI laptop",
+        "description": "A gaming laptop from MSI designed for performance and style",
+        "image": "assets/images/product3.jpg",
+        "price": 36000,
+        "category": "Category lap"
+    },
+    {
+        "name": "iPhone",
+        "description": "The latest iPhone with advanced featuresek design",
+        "image": "assets/images/mob1.jpg",
+        "price": 110000,
+        "category": "Category mob"
+    },
+    {
+        "name": "Redmi 11",
+        "description": "A budget-friendly smartphone with good performance.",
+        "image": "assets/images/mob2.jpg",
+        "price": 23000,
+        "category": "Category mob"
+    },
+    {
+        "name": "Redmi 12",
+        "description": "A mid-range smartphone offering excellent value for money",
+        "image": "assets/images/mob3.jpg",
+        "price": 17000,
+        "category": "Category mob"
+    },
+    {
+        "name": "casio watch 158",
+        "description": "A budget-friendly with good performance.",
+        "image": "assets/images/wat5.jpg",
+        "price": 23000,
+        "category": "Category watch"
+    },
+    {
+        "name": "watch 12",
+        "description": "A mid-range watch offering excellent value for money",
+        "image": "assets/images/wat2.jpg",
+        "price": 17000,
+        "category": "Category watch"
+    }
+]
